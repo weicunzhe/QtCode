@@ -1,4 +1,4 @@
-#include "global.h"
+#include <global.h>
 
 std::function<void(QWidget*)> repolish = [](QWidget *w)
 {
